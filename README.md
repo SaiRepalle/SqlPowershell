@@ -1,2 +1,3 @@
 # SqlPowershell
-These scripts are useful for daily administrative Microsoft SQLServers using Windows Powershell
+These scripts are useful for daily administrative Microsoft SQL Servers using Windows Powershell.
+
